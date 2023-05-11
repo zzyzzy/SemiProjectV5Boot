@@ -195,7 +195,7 @@
     </div>
 
     <!-- 우편번호 폼 모달 -->
-    <div id="zipmodal" class="modal fade" role="dialog">
+    <div id="zipmodal" class="modal fade">
         <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
