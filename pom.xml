@@ -79,6 +79,13 @@
             <version>8.0.33</version>
         </dependency>
 
+        <!-- mariadb -->
+        <dependency>
+            <groupId>org.mariadb.jdbc</groupId>
+            <artifactId>mariadb-java-client</artifactId>
+            <version>3.1.4</version>
+        </dependency>
+
     </dependencies>
 
     <build>
